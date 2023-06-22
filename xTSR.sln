@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTSR", "xTSR\xTSR.csproj", "{0A39DDE1-61D4-4D7A-A3D3-35747D8F9A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A39DDE1-61D4-4D7A-A3D3-35747D8F9A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A39DDE1-61D4-4D7A-A3D3-35747D8F9A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A39DDE1-61D4-4D7A-A3D3-35747D8F9A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A39DDE1-61D4-4D7A-A3D3-35747D8F9A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5681E4-B0DB-4D9D-9E21-5EAAD674FED1}
+	EndGlobalSection
+EndGlobal
